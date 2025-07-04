@@ -1,0 +1,17 @@
+// 🎀 Theme: Airi Momoi
+// Airi's theme is a soft pink blend with bubbly highlights, 
+// representing her energetic idol spirit and classic moe charm.
+// Ideal for devs who like their console logs kawaii and their errors sparkly.
+// 💡 "Even failed builds are cute if you're using Airi's theme."
+{
+  "name": "airi-theme",
+  "type": "light",
+  "colors": {
+    "editor.background": "#fff0f5",
+    "editor.foreground": "#2e2e2e",
+    "editorCursor.foreground": "#ff69b4",
+    "editor.lineHighlightBackground": "#ffd6e8",
+    "editor.selectionBackground": "#ffc0cb66"
+  },
+  "tokenColors": []
+}
