@@ -1,0 +1,16 @@
+// 🌸 Theme: Haruka Kiritani
+// Elegant whites and soft blues, inspired by Haruka’s calm and graceful presence as a pro idol.
+// A minimalist vibe for devs who love clean UI and clean code.
+// 💡 "When the code is messy, let Haruka bring the clarity."
+{
+  "name": "haruka-theme",
+  "type": "light",
+  "colors": {
+    "editor.background": "#f6faff",
+    "editor.foreground": "#2c3e50",
+    "editorCursor.foreground": "#87cefa",
+    "editor.lineHighlightBackground": "#e0f3ff",
+    "editor.selectionBackground": "#add8e688"
+  },
+  "tokenColors": []
+}
