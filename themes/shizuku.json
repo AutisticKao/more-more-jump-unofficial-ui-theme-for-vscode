@@ -1,0 +1,16 @@
+// 🌊 Theme: Shizuku Hinomori
+// Deep aqua tones and cooler accents to reflect Shizuku’s mature and cool demeanor.
+// Best used when you're on that late-night focus grind, building something important.
+// 💡 "Silent but sharp—like her lines of code."
+{
+  "name": "shizuku-theme",
+  "type": "dark",
+  "colors": {
+    "editor.background": "#0f1e2d",
+    "editor.foreground": "#dcefff",
+    "editorCursor.foreground": "#50c5e0",
+    "editor.lineHighlightBackground": "#1e2f3d",
+    "editor.selectionBackground": "#4fc3f766"
+  },
+  "tokenColors": []
+}
