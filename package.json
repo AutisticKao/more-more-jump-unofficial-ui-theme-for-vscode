@@ -1,0 +1,35 @@
+{
+  "name": "more-more-jump-unofficial-ui-theme-for-vscode",
+  "displayName": "MORE MORE JUMP! VSCode Themes",
+  "description": "Unofficial VSCode color themes inspired by the members of MORE MORE JUMP! from Project SEKAI.",
+  "version": "1.0.0",
+  "publisher": "waifucoded",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": ["Themes"],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Airi Momoi",
+        "uiTheme": "vs",
+        "path": "./themes/airi.json"
+      },
+      {
+        "label": "Minori Hanasato",
+        "uiTheme": "vs",
+        "path": "./themes/minori.json"
+      },
+      {
+        "label": "Haruka Kiritani",
+        "uiTheme": "vs",
+        "path": "./themes/haruka.json"
+      },
+      {
+        "label": "Shizuku Hinomori",
+        "uiTheme": "vs-dark",
+        "path": "./themes/shizuku.json"
+      }
+    ]
+  }
+}
