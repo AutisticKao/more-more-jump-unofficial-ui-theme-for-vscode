@@ -1,0 +1,16 @@
+// 🌻 Theme: Minori Hanasato
+// Bright yellow and warm orange tones, full of optimism and hope—just like Minori herself.
+// Perfect for morning coding sessions or when you're pushing through bugfixes with positive energy.
+// 💡 "Every commit is a step closer to your dream."
+{
+  "name": "minori-theme",
+  "type": "light",
+  "colors": {
+    "editor.background": "#fffbea",
+    "editor.foreground": "#2e2e2e",
+    "editorCursor.foreground": "#ffd700",
+    "editor.lineHighlightBackground": "#fff8d1",
+    "editor.selectionBackground": "#ffe68088"
+  },
+  "tokenColors": []
+}
